@@ -1,0 +1,10 @@
+com\note\backend\service\ICategoryService.class
+com\note\backend\service\INoteService.class
+com\note\backend\dao\INoteDao.class
+com\note\backend\dao\ICategoryDao.class
+com\note\backend\models\entity\Note.class
+com\note\backend\service\NoteService.class
+com\note\backend\BackEndNoteCreationApplication.class
+com\note\backend\controller\NoteRestController.class
+com\note\backend\models\entity\Category.class
+com\note\backend\service\CategoryService.class
