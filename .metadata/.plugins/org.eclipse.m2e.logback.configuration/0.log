@@ -65,3 +65,12 @@
 2024-01-16 15:40:37,783 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2024-01-16 15:40:37,806 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-01-16 15:40:37,812 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Lorespitia24\Documentos\Cursos\Ejemplo\notesApp\BackEnd\BackEndNoteCreation\src\test\resources
+2024-01-16 16:06:07,313 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-16 16:06:07,314 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-16 16:06:07,318 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Lorespitia24\Documentos\Cursos\Ejemplo\notesApp\BackEnd\BackEndNoteCreation\src\test\resources
+2024-01-16 16:16:55,036 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-16 16:16:55,063 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-16 16:16:55,066 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Lorespitia24\Documentos\Cursos\Ejemplo\notesApp\BackEnd\BackEndNoteCreation\src\test\resources
+2024-01-16 16:18:43,393 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-16 16:18:43,442 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-16 16:18:43,458 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Lorespitia24\Documentos\Cursos\Ejemplo\notesApp\BackEnd\BackEndNoteCreation\src\test\resources

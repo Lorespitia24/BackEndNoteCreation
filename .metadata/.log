@@ -297,3 +297,48 @@ Binding(CTRL+SHIFT+C,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-01-16 16:14:43.112
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-01-16 16:14:43.114
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@6cec7fc6[org.springframework.tooling.boot.ls:1.36.0.202206171137(id=923)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-01-16 16:14:43.134
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-01-16 16:14:43.529
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-01-16 16:14:49.874
+!MESSAGE Boot LS startup time from start to initialized: 6711ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-01-16 16:14:50.353
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.MNRonPzXisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-01-16 16:14:50.356
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-01-16 16:14:50.359
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-01-16 16:14:50.361
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-01-16 16:14:50.361
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-01-16 16:14:50.362
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.MNRonPzX => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-01-16 16:14:50.428
+!MESSAGE classpath=105 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-01-16 16:14:50.445
+!MESSAGE buffering callback sts4.classpath.MNRonPzX BackEndNoteCreation false 105
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-01-16 16:14:50.446
+!MESSAGE executing callback sts4.classpath.MNRonPzX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-01-16 16:14:52.340
+!MESSAGE executing callback sts4.classpath.MNRonPzX SUCCESS [done]
